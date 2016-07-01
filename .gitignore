@@ -1,0 +1,12 @@
+**.idea
+**.classpath
+**.project
+**.ipr
+**.iml
+**.log
+**.log*
+target/
+overlays/
+**.settings
+alf_data_dev
+
